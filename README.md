@@ -21,7 +21,7 @@ Esta es una API REST completa para jugar al "gato" (tic-tac-toe) implementada en
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/FalkFlow/gato-rest
 cd juego-gato-api
 ```
 
